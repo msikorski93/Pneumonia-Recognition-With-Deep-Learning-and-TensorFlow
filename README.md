@@ -6,5 +6,5 @@ with ReLu activation and output layer with sigmoid activation. The CNN was desig
 
 ![architecture](https://user-images.githubusercontent.com/45270023/214060460-810941ae-b8e6-43c9-9a9e-695520737e33.jpg)
 
-The learning process stopped at the 33rd epoch. The model evualation on test data achieved 86.06% for accuracy and 93.34% for the AUC score. Finally, we
+The learning process stopped at the 33rd epoch. The model evaluation on test data achieved 86.06% for accuracy and 93.34% for the AUC score. Finally, we
 made a single image recognition on an online chest image. The algorithm performs correctly in terms of classifying patients radiology images.
