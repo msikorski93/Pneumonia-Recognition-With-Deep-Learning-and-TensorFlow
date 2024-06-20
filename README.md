@@ -20,7 +20,7 @@ A new classification task was performed using transfer learning. Five different 
 | InceptionV3    | 0.828526 | 0.828526 | 0.828526  | 0.853080 | 0.687500 | 0.687500 |
 | EfficientNetB1 | 0.783654 | 0.783654 | 0.783654  | 0.882095 | 0.875000 | 0.875000 |
 
-This notebook has been additionally developed with Grad-CAM visualizations for the best CNN - VGG19.
+This notebook has been additionally developed with Grad-CAM visualizations for the best CNN - VGG16.
 
 <p align='center'>
 <img src='https://github.com/msikorski93/Pneumonia-Recognition-With-Deep-Learning-and-TensorFlow/assets/45270023/f43ae5a6-cf86-4b3c-a696-e69015953a84' width='400' style='background-color:white;'/>
