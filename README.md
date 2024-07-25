@@ -1,4 +1,11 @@
 # Pneumonia-Recognition-With-Deep-Learning-and-TensorFlow
+![ alt text ](https://img.shields.io/badge/license-MIT-green?style=&logo=)
+![ alt text ](https://img.shields.io/badge/-Jupyter-F37626?logo=Jupyter&logoColor=white)
+![ alt text ](https://img.shields.io/badge/-NumPy-013243?logo=Numpy&logoColor=white)
+![ alt text ](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)
+![ alt text ](https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white)
+![ alt text ](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+
 In this project a convolutional neural network (CNN) was built and trained in Keras with TensorFlow as backend from scratch to predict
 if patients were infected with pneumonia using their chest radiology images. The dataset contained the lungs X-ray images of both groups: normal
 and pneumonia infected patients. The model used was sequential with a combination of convolutional layers, pooling layers, dropout layers, dense layers
